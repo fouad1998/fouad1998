@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fouad1998
 - 👀 I’m interested in Web technologies
 - 🌱 I’m currently learning Devops decipline
-- 💞️ I’m looking to collaborate on Saas solution
+- 💞️ I’m working on Saas solution
 - 📫 How to reach me by [email](fouad.hachour@inttic.dz)
 
 <!---
