@@ -9,12 +9,19 @@ I can't get enough of 🚀 GO programming! I love working on it in my free time 
 Main skills:
 
 📌 Programming languages: JavaScript, Type Script and Go
+
 📌 JavaScript runtime environment: Browser and Node
+
 📌 Frameworks: React.js, Next.js and Express.js
+
 📌 Data exchange: REST API, GRPC and Graph QL
+
 📌 Libraries: Apollo, React-Query, d3.js, and Material-UI
+
 📌 Databases: MySQL, Postgresql, and Mongo Db
+
 📌 Testing: Jest, RTL, and Cucumber
+
 📌 Tools: VsCode, Docker
 
 
