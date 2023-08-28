@@ -2,8 +2,6 @@ A highly motivated Web Developer with 3 years of experience delivering complex a
 
 💻 As a problem-solver at heart, I love finding the most elegant solutions to both simple and complex challenges.
 
-I can't get enough of 🚀 GO programming! I love working on it in my free time and constantly finding new ways to improve my skills. 
-
 🎯 Committed to staying up-to-date with the latest web development technologies and trends, and continuously seeking opportunities for growth and professional development.
 
 Main skills:
